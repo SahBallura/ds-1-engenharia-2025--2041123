@@ -13,28 +13,28 @@
 
 ## 💪 Metodologias Ágeis  
 ### 📖 Manifesto Ágil  
- O Manifesto Ágil é uma declaração de valores e princípios essenciais para o desenvolvimento de software. 
+ O Manifesto Ágil foi criado para otimizar o fluxo de trabalho e aumentar a produtividade das equipes sem comprometer a qualidade dos projetos. Ele prioriza o funcionamento do software em vez de burocracias, valorizando a interação entre as pessoas, a colaboração com o cliente e a adaptação às mudanças. Para garantir entregas eficientes, é essencial manter a satisfação do cliente por meio de entregas contínuas, promover uma comunicação eficaz entre os membros da equipe e incentivar um ambiente motivador para o desenvolvimento do projeto.
 
 ## 🏆 Scrum  
 ### 📅 Sprints  
- Utiliza-se um meio de planejar e gerir projetos através de ciclos. É organizada em periodos curtos e fixos de tempo, suas etapas é chamada de sprint, podendo ter uma duração de um mês. São divididas em: planejamento do sprint, execução, reunião diária e demonstração de resultados.
+ Uma Sprint no Scrum é um ciclo de trabalho com duração fixa, geralmente com uma duração de um mês, no qual a equipe executa um conjunto de tarefas planejadas. Durante a Sprint, ocorrem atividades como o planejamento, a execução das tarefas, as reuniões diárias para alinhamento e, no final, a revisão dos resultados com o time e os stakeholders. Esse processo garante entregas contínuas e melhorias constantes no produto.
  
 ### 💬 Cerimônias  
  As cerimônias do Scrum giram em torno da Sprint. Suas principais cerimonias são:
- 1 Sprint Planning - É uma reunião de planejamento, onde o Time de Desenvolvimento pega os itens prioritários do Product Backlog, que é uma lista ordenada de todos os requisitos que precisam estar no produto, e os separa em Sprint Backlog. 
- 2 Sprint Backlog - Corresponde aos agrupamentos dos itens prioritários, isto é, o que será trabalhado na Sprint Scrum, onde uma meta será traçada, visando o desenvolvimento de algum incremento ao produto. Assim, é criada uma lista de tarefas com base no Product Backlog alinhada com as prioridades já definidas pelo Product Owner, que é o membro do time responsável por direcionar o projeto de acordo com a necessidade do cliente.
- 3 Sprint Review - É uma reunião de revisão que acontece após o final de cada Sprint Scrum com todos os membros do Time Scrum e o cliente, para obter seu feedback quanto à última entrega.
- 4 Sprint Retrospective - Utilizada para repassar o que foi feito de certo e errado na Sprint Scrum, buscando sempre aprender com as falhas e reconhecer as conquistas.
+ 1.Sprint Planning – Reunião de planejamento onde a equipe escolhe, a partir do Product Backlog, os itens prioritários que serão trabalhados na Sprint.
+ 2.Sprint Backlog – Conjunto de tarefas selecionadas na Sprint Planning, definindo a meta da Sprint e garantindo que o time siga as prioridades do Product Owner.
+ 3.Sprint Review – Reunião ao final da Sprint para apresentar o que foi desenvolvido e receber feedback do cliente, ajustando o produto conforme necessário.
+ 4.Sprint Retrospective – Momento de reflexão onde a equipe analisa os acertos e erros da Sprint, buscando melhorias contínuas no processo.
 
 ## 🎯 Kanban  
- Foi criada pela montadora de automóveis Toyota, consiste em repartir as tarefas e organizá-las em um quadro de trabalho , sendo elas: tarefas pendentes, em andamento e concluídas. 
+ Foi criada pela montadora de automóveis Toyota, para otimizar o fluxo de trabalho. Ele organiza tarefas em um quadro dividido em colunas, geralmente representando tarefas pendentes, em andamento e concluídas. Amplamente aplicado em diversos setores, como desenvolvimento de software, gestão de projetos e produção industrial, promovendo um fluxo de trabalho mais ágil e eficiente.
 
 ## 🚀 Extreme Programming (XP)  
- Uma metodoligia que se fundamenta nas relações interpessoais. Ela se baseia em cinco principios: comunicação, simplicidade, feedback, coragem e respeito
+ Uma metodologia ágil que enfatiza a colaboração e a eficiência no desenvolvimento de software. Seus princípios fundamentais são: **comunicação**: para garantir alinhamento entre a equipe; **simplicidade**: focando em soluções diretas e funcionais; **feedback**: permitindo ajustes constantes; **coragem**: para tomar decisões necessárias e aceitar mudanças; e **respeito**: promovendo um ambiente de trabalho saudável e produtivo.
 
 ## 🔧 Ferramentas de Gestão de Desenvolvimento  
 ### 💪 GitHub / GitLab  
-O GitHub e o GitLab são plataformas para armazenar e compartilhar codigos. Elas ajudam equipes a colaborar, controlar versões e gerenciar tarefas de projetos.
+ O GitHub e o GitLab são ferramentas que ajudam equipes a trabalhar juntas no desenvolvimento de software. Com elas, é possível armazenar e organizar códigos, acompanhar mudanças ao longo do tempo e colaborar de forma mais eficiente. Além disso, essas plataformas facilitam a comunicação entre os desenvolvedores, permitindo revisões de código e a automação de tarefas, tornando o processo mais ágil e seguro.
 
 ### 🎮 Jira / Trello  
- São ferramentas utilizadas para organizar e acompanhar tarefas. O Jira é focado em equipes de desenvolvimento e metodologia ageis. já ao Trello é usado quadros visuais para gerenciar tarefas de maneira flexível e fácil.
+ O Jira e o Trello ajudam na organização e acompanhamento de tarefas de forma visual. O Trello é mais simples, usando quadros e listas para gerenciar atividades, enquanto o Jira é mais robusto, voltado para equipes de desenvolvimento, oferecendo funcionalidades adicionais para gestão ágil de projetos e automação de processos. Ambos facilitam a colaboração e o planejamento das tarefas.
