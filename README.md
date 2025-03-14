@@ -6,8 +6,8 @@
 
 ## 📖 Metodologias Tradicionais  
 ### 🛠️ Cascata  
- Essa metodologia utiliza etapas organizadas de cima para baixo, originando assim o seu nome justamente pela forma que ela é organizada. Ela é organizada em etapas definidas, sendo assim precisando ser concluidas antes de avançar para a proxima, tendo dificuldade em fazer mudanças, sendo assim o resultado final aparece so depois de muitro processos.
-
+ Essa metodologia utiliza etapas organizadas de cima para baixo, originando assim o seu nome justamente pela forma que ela é organizada. Seu processo é organizado em etapas bem definidas, onde cada fase precisa ser concluída antes de avançar para a próxima. Isso torna as mudanças durante o desenvolvimento mais difíceis, e o resultado final só aparece depois de muitos processos.
+ 
 ### 🌐 Espiral  
  É uma combinação do modelo Prototipação e Cascata, incluindo o conceito de análise de risco. Dividindo-se em quatro etapas são elas: planejamento, análise de risco, desenvolvimento de protótipos e avaliação do cliente. Seu nome é uma referência ao seu próprio funcionamento, que suas etapas acotecem em espiral e quanto mais proximo do centro, mais avançado está o projeto.
 
@@ -17,7 +17,7 @@
 
 ## 🏆 Scrum  
 ### 📅 Sprints  
- Uma Sprint no Scrum é um ciclo de trabalho com duração fixa, geralmente com uma duração de um mês, no qual a equipe executa um conjunto de tarefas planejadas. Durante a Sprint, ocorrem atividades como o planejamento, a execução das tarefas, as reuniões diárias para alinhamento e, no final, a revisão dos resultados com o time e os stakeholders. Esse processo garante entregas contínuas e melhorias constantes no produto.
+ Uma Sprint no Scrum é um ciclo de trabalho com uma duração geralmente de um mês, no qual a equipe executa um conjunto de tarefas planejadas. Durante a Sprint, ocorrem atividades como o planejamento, a execução das tarefas, as reuniões diárias para alinhamento e, no final, a revisão dos resultados com o time e os stakeholders. Esse processo garante entregas contínuas e melhorias constantes no produto.
  
 ### 💬 Cerimônias  
  As cerimônias do Scrum giram em torno da Sprint. Suas principais cerimonias são:
