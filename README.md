@@ -22,13 +22,13 @@
 ### 💬 Cerimônias  
  As cerimônias do Scrum giram em torno da Sprint. Suas principais cerimonias são:
  
- 1.**Sprint Planning** – Reunião de planejamento onde a equipe escolhe, a partir do Product Backlog, os itens prioritários que serão trabalhados na Sprint.
+ **1.Sprint Planning** – Reunião de planejamento onde a equipe escolhe, a partir do Product Backlog, os itens prioritários que serão trabalhados na Sprint.
  
- 2.**Sprint Backlog** – Conjunto de tarefas selecionadas na Sprint Planning, definindo a meta da Sprint e garantindo que o time siga as prioridades do Product Owner.
+ **2.Sprint Backlog** – Conjunto de tarefas selecionadas na Sprint Planning, definindo a meta da Sprint e garantindo que o time siga as prioridades do Product Owner.
 
- 3.**Sprint Review** – Reunião ao final da Sprint para apresentar o que foi desenvolvido e receber feedback do cliente, ajustando o produto conforme necessário.
+ **3.Sprint Review** – Reunião ao final da Sprint para apresentar o que foi desenvolvido e receber feedback do cliente, ajustando o produto conforme necessário.
  
- 4.**Sprint Retrospective** – Momento de reflexão onde a equipe analisa os acertos e erros da Sprint, buscando melhorias contínuas no processo.
+ **4.Sprint Retrospective** – Momento de reflexão onde a equipe analisa os acertos e erros da Sprint, buscando melhorias contínuas no processo.
 
 ## 🎯 Kanban  
  Foi criada pela montadora de automóveis Toyota, para otimizar o fluxo de trabalho. Ele organiza tarefas em um quadro dividido em colunas, geralmente representando tarefas pendentes, em andamento e concluídas. Amplamente aplicado em diversos setores, como desenvolvimento de software, gestão de projetos e produção industrial, promovendo um fluxo de trabalho mais ágil e eficiente.
